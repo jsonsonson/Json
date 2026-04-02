@@ -1,0 +1,11 @@
+{
+  "versao": 7,
+  "css_personalizado": "body { background-color: #ffffff; color: black; } .card-jogo { background: #3ff95e; border-radius: 900px; }",
+  "jogos": [
+    {
+      "nome": "Jogo Novo",
+      "img": "data:image/png;base64,COLOQUE_O_BASE64_AQUI",
+      "link": "https://link-de-download.com"
+    }
+  ]
+}
