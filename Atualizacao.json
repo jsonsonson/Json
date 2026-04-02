@@ -1,6 +1,6 @@
 {
-  "versao": 7,
-  "css_personalizado": "body { background-color: #ffffff; color: black; } .card-jogo { background: #3ff95e; border-radius: 900px; }",
+  "versao": 9,
+  "css_personalizado": "body { background-color; color:  { backgrf95e; border-radius: 900px; }",
   "jogos": [
     {
       "nome": "Jogo Novo",
